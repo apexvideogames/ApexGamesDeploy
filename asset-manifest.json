@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ApexGames-Website/static/css/main.ed347730.css",
+    "main.js": "/ApexGames-Website/static/js/main.279fd426.js",
+    "static/js/787.8723dbf3.chunk.js": "/ApexGames-Website/static/js/787.8723dbf3.chunk.js",
+    "static/media/solution-img-two.PNG": "/ApexGames-Website/static/media/solution-img-two.fd9a9089425f252ad6ff.PNG",
+    "static/media/games-server.jpg": "/ApexGames-Website/static/media/games-server.f2080d038bdadbf1263c.jpg",
+    "static/media/about-background.jpg": "/ApexGames-Website/static/media/about-background.454291982ee0e0baf5c9.jpg",
+    "static/media/vission-and-mission-background.jpg": "/ApexGames-Website/static/media/vission-and-mission-background.53051929b5769271106d.jpg",
+    "static/media/solution-img-one.PNG": "/ApexGames-Website/static/media/solution-img-one.4fd95ca0bd8bea29070c.PNG",
+    "static/media/curved.jpg": "/ApexGames-Website/static/media/curved.07dafb08d9a700d8bcf6.jpg",
+    "index.html": "/ApexGames-Website/index.html",
+    "main.ed347730.css.map": "/ApexGames-Website/static/css/main.ed347730.css.map",
+    "main.279fd426.js.map": "/ApexGames-Website/static/js/main.279fd426.js.map",
+    "787.8723dbf3.chunk.js.map": "/ApexGames-Website/static/js/787.8723dbf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed347730.css",
+    "static/js/main.279fd426.js"
+  ]
+}
