@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ApexGamesDeploy/static/css/main.3072e239.css",
-    "main.js": "/ApexGamesDeploy/static/js/main.7bd2e1be.js",
-    "static/js/787.8723dbf3.chunk.js": "/ApexGamesDeploy/static/js/787.8723dbf3.chunk.js",
-    "static/media/solution-img-two.PNG": "/ApexGamesDeploy/static/media/solution-img-two.fd9a9089425f252ad6ff.PNG",
-    "static/media/games-server.jpg": "/ApexGamesDeploy/static/media/games-server.f2080d038bdadbf1263c.jpg",
-    "static/media/about-background.jpg": "/ApexGamesDeploy/static/media/about-background.454291982ee0e0baf5c9.jpg",
-    "static/media/vission-and-mission-background.jpg": "/ApexGamesDeploy/static/media/vission-and-mission-background.53051929b5769271106d.jpg",
-    "static/media/solution-img-one.PNG": "/ApexGamesDeploy/static/media/solution-img-one.4fd95ca0bd8bea29070c.PNG",
-    "static/media/curved.jpg": "/ApexGamesDeploy/static/media/curved.07dafb08d9a700d8bcf6.jpg",
-    "index.html": "/ApexGamesDeploy/index.html",
-    "main.3072e239.css.map": "/ApexGamesDeploy/static/css/main.3072e239.css.map",
-    "main.7bd2e1be.js.map": "/ApexGamesDeploy/static/js/main.7bd2e1be.js.map",
-    "787.8723dbf3.chunk.js.map": "/ApexGamesDeploy/static/js/787.8723dbf3.chunk.js.map"
+    "main.css": "/static/css/main.adb18d64.css",
+    "main.js": "/static/js/main.3354e27c.js",
+    "static/js/787.8723dbf3.chunk.js": "/static/js/787.8723dbf3.chunk.js",
+    "static/media/solution-img-two.PNG": "/static/media/solution-img-two.fd9a9089425f252ad6ff.PNG",
+    "static/media/games-server.jpg": "/static/media/games-server.f2080d038bdadbf1263c.jpg",
+    "static/media/about-background.jpg": "/static/media/about-background.454291982ee0e0baf5c9.jpg",
+    "static/media/vission-and-mission-background.jpg": "/static/media/vission-and-mission-background.53051929b5769271106d.jpg",
+    "static/media/solution-img-one.PNG": "/static/media/solution-img-one.4fd95ca0bd8bea29070c.PNG",
+    "static/media/curved.jpg": "/static/media/curved.07dafb08d9a700d8bcf6.jpg",
+    "index.html": "/index.html",
+    "main.adb18d64.css.map": "/static/css/main.adb18d64.css.map",
+    "main.3354e27c.js.map": "/static/js/main.3354e27c.js.map",
+    "787.8723dbf3.chunk.js.map": "/static/js/787.8723dbf3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3072e239.css",
-    "static/js/main.7bd2e1be.js"
+    "static/css/main.adb18d64.css",
+    "static/js/main.3354e27c.js"
   ]
 }
